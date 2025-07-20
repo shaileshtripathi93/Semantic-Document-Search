@@ -1,4 +1,5 @@
 # 🧠 Semantic Document Search with Streamlit & HuggingFace Embeddings
+[Watch Demo Video](./demo/demo_video.mp4)
 
 This is a simple yet powerful **semantic search web app** built using **Streamlit** and **LangChain's HuggingFace embeddings**. It allows users to enter natural language queries and find the most relevant document from a predefined list using **cosine similarity**.
 
